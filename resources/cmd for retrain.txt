@@ -1,0 +1,1 @@
+python C:\uni\year3\indivproj\program\tf_files\scripts\label_image.py --graph=C:\uni\year3\indivproj\program\tf_files\planets_retrained.pb --image=C:\uni\year3\indivproj\program\tf_files\dataset_dissertation\Comet\c56.jpg --labels=C:\uni\year3\indivproj\program\tf_files\planet_labels.txt

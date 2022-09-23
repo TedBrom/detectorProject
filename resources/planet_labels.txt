@@ -1,0 +1,16 @@
+comet
+earth
+elliptical galaxy
+irregular galaxy
+jupiter
+mars
+mercury
+milky way
+nebula
+neptune
+pluto
+saturn
+sun
+supernova
+uranus
+venus
